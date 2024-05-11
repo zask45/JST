@@ -1,2 +1,2 @@
-import Graph
-import GrowingNeuralGas
+from helper import Graph
+from helper import GrowingNeuralGas

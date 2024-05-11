@@ -1,2 +1,2 @@
 import Graph
-impport GrowingNeuralGas
+import GrowingNeuralGas

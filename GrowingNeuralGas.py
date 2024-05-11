@@ -7,7 +7,7 @@ https://papers.nips.cc/paper/893-a-growing-neural-gas-network-learns-topologies.
 http://www.booru.net/download/MasterThesisProj.pdf
 """
 
-from helper import Graph
+import Graph
 import numpy as np
 
 

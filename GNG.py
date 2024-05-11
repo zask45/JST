@@ -12,7 +12,7 @@ import numpy as np
 
 
 
-class GrowingNeuralGas:
+class GNG:
     def __init__(self,
                 feature_dim : int): 
         

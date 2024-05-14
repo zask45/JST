@@ -16,7 +16,7 @@ Information Processing Systems 7, 1995.
 '''
 
 
-class GrowingNeuralGas:
+class NeuralGas:
 
     def __init__(self, input_data):
         self.network = None
